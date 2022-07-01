@@ -5,7 +5,7 @@ public class CoinFlip {
 if (from1UpTo1000<500){
     System.out.println("Eagle");
 }else {
-    System.out.println("Tails");
+    System.out.println("Tail");
 }
     }
 }
